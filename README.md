@@ -20,7 +20,7 @@ Bu proje, MNIST veri seti kullanılarak el yazısı rakamları tanıyabilen basi
 
 ### 🔗 Google Colab üzerinden çalıştır:
 
-[Google Colab'da Aç](https://colab.research.google.com/github/keremerkengel/mnist-el-yazisi-tanima/blob/colab/El_Yazisi_Rakam_Tanima_(MNIST).ipynb)
+[Google Colab'da Aç](https://colab.research.google.com/drive/1NDYp7R464HlX0RIhHIz4xXmeaKRrjm72?usp=sharing)
 
 ## 👤 Geliştirici
 
